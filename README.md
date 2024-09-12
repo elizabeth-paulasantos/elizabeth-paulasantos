@@ -1,8 +1,7 @@
 ## Olá, sou a Elizabeth👋
 
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas e Front End pela Kenzie Academy🏡
-- 📫 Contato: elizabeth.paulasantos@gmail.com
-- 🏠 Moro em São Paulo-BR
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas e Front End pela Kenzie Academy
+- Sonho em me tornar uma Dev 👩🏿💻
 
   
 
@@ -12,6 +11,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
 
 <div> 
   <a href="https://www.instagram.com/beth_paulasantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
